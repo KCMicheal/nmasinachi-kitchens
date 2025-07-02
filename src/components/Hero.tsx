@@ -6,7 +6,6 @@ export default function Hero() {
   return (
     <>
       <Aurora
-        colorStops={["#3A29FF", "#FF94B4", "#FF3232"]}
         speed={1.5}
         amplitude={0.5}
         blend={0.2}
