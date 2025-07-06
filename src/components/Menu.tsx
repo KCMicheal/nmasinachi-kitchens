@@ -1,7 +1,10 @@
 const menu = [
-    { name: "Jollof Rice", price: 2000 },
-    { name: "Egusi Soup/Semo/Beef", price: 5000 },
-    { name: "Ukwa with Mangala", price: 5000 },
+    { name: "Jollof Rice with Chicken", price: 3500 },
+    { name: "Fried Rice with Chicken", price: 3500 },
+    { name: "Egusi Soup with Semo and Beef", price: 5500 },
+    { name: "Afang Soup with Water Fufu", price: 4500 },
+    { name: "Ukwa with Smoked Fish", price: 5000 },
+    { name: "Nkwobi", price: 4000 },
   ];
   
   export default function MenuA() {
